@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\bin\Debug\net6.0\StudentApp.Core.deps.json
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\bin\Debug\net6.0\StudentApp.Core.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\bin\Debug\net6.0\StudentApp.Core.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\StudentApp.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\StudentApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\StudentApp.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\StudentApp.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\StudentApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\StudentApp.Core.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\refint\StudentApp.Core.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\StudentApp.Core.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Core\obj\Debug\net6.0\ref\StudentApp.Core.dll

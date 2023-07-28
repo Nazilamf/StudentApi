@@ -1,0 +1,22 @@
+﻿@using StudentApp.UI.ViewModels;
+﻿@{
+    ViewData["Title"] = "Edit";
+}
+@model GroupEditViewModel
+<div class="container">
+    <div class="row d-flex justify-content-center">
+        <div class="col-md-8">
+            <h2>Groups Edit</h2>
+        </div>
+        <div class="col-md-8">
+            <form method="post">
+                <div class="form-group">
+                    <label asp-for="GroupNo">GroupNo</label>
+                    <input class="form-control" asp-for="GroupNo">
+                    <span class="text-danger" asp-validation-for="GroupNo"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

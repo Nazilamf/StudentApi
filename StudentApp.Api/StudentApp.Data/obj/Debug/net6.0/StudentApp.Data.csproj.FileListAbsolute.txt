@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\bin\Debug\net6.0\StudentApp.Data.deps.json
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\bin\Debug\net6.0\StudentApp.Data.runtimeconfig.json
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\bin\Debug\net6.0\StudentApp.Data.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\bin\Debug\net6.0\StudentApp.Data.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\bin\Debug\net6.0\StudentApp.Core.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\bin\Debug\net6.0\StudentApp.Core.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.csproj.CopyComplete
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\refint\StudentApp.Data.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\StudentApp.Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Data\obj\Debug\net6.0\ref\StudentApp.Data.dll

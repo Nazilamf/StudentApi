@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\bin\Debug\net6.0\StudentApp.Service.deps.json
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\bin\Debug\net6.0\StudentApp.Service.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\bin\Debug\net6.0\StudentApp.Service.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\bin\Debug\net6.0\StudentApp.Core.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\bin\Debug\net6.0\StudentApp.Data.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\bin\Debug\net6.0\StudentApp.Data.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\bin\Debug\net6.0\StudentApp.Core.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.csproj.CopyComplete
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\refint\StudentApp.Service.dll
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\StudentApp.Service.pdb
+C:\Users\HP\Desktop\API\API-Project\StudentApp.Api\StudentApp.Service\obj\Debug\net6.0\ref\StudentApp.Service.dll
